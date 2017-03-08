@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%; 
+
+}
+body {
+
+}
+.purple-parent-container {
+  flex: 1 0 auto;
+  display: flex;
+  background-color: purple;
+  height: 1000px;
+  width: 1000px;
+
+  border: 2px solid green;
+}
